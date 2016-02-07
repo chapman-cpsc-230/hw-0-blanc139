@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** Grayden Blanchard
 
-**Due date:** _\<date\>_
+**Due date:** Feb. 4, 2015
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Learn how to clone, edit, commit, and sync a repository back to github.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to clone a repository, edited the file "ReadME" and pushed it back to github.
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Grayden Blanchard
